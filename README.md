@@ -2,7 +2,7 @@
 <br>
 
 <p aligh="left">
-  <p>I'm a Software Engineer @ Klarna <img src="https://github.com/pacchio/pacchio/blob/main/klarna-logo.png" width="28px"/></p>
+  <p>I'm a Software Engineer @ Klarna</p>
   <p>I'm from 🇮🇹 <b>Mantova, Italy</b>.</p>
   
   💻 &nbsp;I love technology and all what is related to it \
@@ -12,7 +12,8 @@
   ⚡️ &nbsp;Fun fact: I like to grow plants, which in some way for me is like coding a software ➡️ if you dedicate them passion and perseverance, their growth will give you interesting results!
 </p>
 <br>
-## 👨🏻‍💻 &nbsp;Things I code with ##
+
+## 👨🏻‍💻 Things I code with ##
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,6 +41,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 🌎 &nbsp;Where to find me ##
+## 🌎 Where to find me ##
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-pacchioni-4b129912a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.pacchioniap@gmail.com)
