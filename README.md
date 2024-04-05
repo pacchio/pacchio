@@ -2,7 +2,7 @@
 <br>
 
 <p aligh="left">
-  <p>I'm a Software Engineer @ Klarna <img src="https://github.com/pacchio/pacchio/blob/main/klarna-logo.png" width="14px"/></p>
+  <p>I'm a Software Engineer @ Klarna <img src="https://github.com/pacchio/pacchio/blob/main/klarna-logo.png" width="28px"/></p>
   <p>I'm from 🇮🇹 <b>Mantova, Italy</b>.</p>
   
   💻 &nbsp;I love technology and all what is related to it \
@@ -14,7 +14,7 @@
 <br>
 ## 👨🏻‍💻 &nbsp;Things I code with ##
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
