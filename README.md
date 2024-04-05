@@ -1,4 +1,4 @@
-# Hi there, I'm Andrea <img src="https://github.com/pacchio/pacchio/blob/main/HandShake.gif" width="35px" height="35px" />
+# Hi there, I'm Andrea <img src="https://github.com/pacchio/pacchio/blob/main/hand-shake.gif" width="35px" height="35px" />
 <br>
 
 <p aligh="left">
