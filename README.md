@@ -2,8 +2,8 @@
 <br>
 
 <p aligh="left">
-  <p>I'm a Software Engineer @ Klarna</p>
-  <p>I'm from 🇮🇹 <b>Mantova, Italy</b>.</p>
+  <p>I'm from 🇮🇹 Mantova, Italy.</p>
+  <p>I'm a Software Engineer @ Klarna.</p>
   
   💻 &nbsp;I love technology and all what is related to it \
   💡 &nbsp;I'm very curious and I always want to improve \
