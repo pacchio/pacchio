@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Andrea <img src="https://github.com/pacchio/pacchio/blob/main/HandShake.gif" width="35px" height="35px" />
+<br>
 
 <!--
 **pacchio/pacchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
