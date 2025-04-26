@@ -6,8 +6,8 @@
   <p>I'm a Software Engineer @ Klarna.</p>
   
   💻 &nbsp;I love technology and all what is related to it \
-  💡 &nbsp;I'm very curious and I always want to improve \
-  🤖 &nbsp;I'm on track to learn more about AI models and how to combine them to create something new \
+  💡 &nbsp;I'm very curious and I always want to learn something new \
+  🤖 &nbsp;I'm on track to learn more about AI models \
   🌱 &nbsp;I'm father of <u>[Ordify](https://ordify.it/)</u>, my first big project started in 2021 \
   ⚡️ &nbsp;Fun fact: I like to grow plants, which in some way for me is like coding a software ➡️ if you dedicate them passion and perseverance, their growth will give you interesting results!
 </p>
@@ -40,6 +40,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## 📝  Blog ##
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@andrea.pacchioniap)
 
 ## 🌎 Where to find me ##
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-pacchioni-4b129912a/)
